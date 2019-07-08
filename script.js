@@ -13,7 +13,7 @@ if (operator == '+') {
 } else if(operator == '/') {
 	result = fN / sN;
 } else {
-	alert("не верная операция");
+	alert("неверная операция");
 }
 
 alert('Итого ' + result);
